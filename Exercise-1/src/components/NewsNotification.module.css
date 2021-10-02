@@ -1,0 +1,28 @@
+.notificationBackground {
+    background-color: rgb(65,150,164);
+    margin-left: 8px;
+    margin-right: 8px
+}
+.mainBg {
+    background-color: rgb(233,234,237);
+    display: flexbox;
+    height: 100%;
+    width: 100%;
+}
+
+.headlineSpan {
+    
+    font-size: 16;
+    font-weight: 700;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    color: white;
+    height: 50px;
+    align-items: center;
+    margin-bottom: 2px;
+    margin-top: 8px;
+    margin-left: 18px;
+}
