@@ -1,0 +1,68 @@
+
+.headerBackground {
+    background-color: rgb(0,25,76);
+}
+
+.rightFlexbox {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    font-size: 17px;
+    margin-right: 300px
+}
+
+.leftFlexbox {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    font-size: 17px;
+    
+}
+
+.container {
+    display: flex;
+    width: 83%;
+    color: white;
+    height: 72px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 16px;
+
+}
+.brand {
+    font-size: 25px;
+    font-weight: 700;
+    margin-right: 32px;
+    
+}
+
+.optionsFlexbox {
+    margin-right: 24px;
+}
+
+.tilaaButton {
+    display: flex;
+    align-items: center;
+    height: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+    background-color: white;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(25,25,25);
+    border-radius: 9999px;
+}
+
+.basicFlexboxRight {
+    display: flex;
+    margin-left: 32px;
+    max-width: 100px;
+    
+}
+
+img {
+    margin-left: 10px;
+    max-width: 8%;
+    max-height: 10%;
+}

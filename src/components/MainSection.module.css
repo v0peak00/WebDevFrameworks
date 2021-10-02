@@ -1,0 +1,79 @@
+.container {
+    display: inline-block;
+    width: 630px;
+    height: 530px;
+    color: black;
+    background-color: white;
+    margin-top: 16px;
+    margin-left: 8px;
+    
+}
+.headLine {
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 15px;
+}
+
+img { 
+    display: flex;
+    margin-left: 15px;
+    max-width: 100%;
+    max-height: 100%;
+    width: 600px;
+    height: 340px;
+}
+
+.topicSpan {
+    color: rgb(0,81,141);
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+.bodySpan {
+    color: black;
+    font-size: 25px;
+    margin-left: 15px;
+    font-weight: 700;
+}
+.mainBg {
+    background-color: rgb(233,234,237);
+    display: flexbox;
+    size: 100%;
+    justify-content: space-between;
+    
+}
+
+/*Side news css*/
+
+.SideNewscontainer {
+    display: inline-block;
+    background-color: white;
+    width: 310px;
+    height: 500px;
+    color: black;
+    margin-top: 16px;
+    margin-left: 16px;
+    padding-left: 16px;
+}
+
+
+.headSideNewsLine {
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    
+}
+
+.bodySideNewsSpan {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.topicSideNewsSpan {
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+}
